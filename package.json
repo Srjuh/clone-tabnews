@@ -4,7 +4,7 @@
   "description": "Projetinho para treinar programação FORTEMENTE inspirado (pra não dizer copiado) do site TabNews.com.br -> Felipe Deschamps",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
